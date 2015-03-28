@@ -15,6 +15,7 @@
  */
 
 //Test
+//Test2
 package com.example.android.wifidirect;
 
 import android.app.Activity;
